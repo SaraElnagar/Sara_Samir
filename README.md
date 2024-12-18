@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Featured Projects  
-### [📱 Flutter Movies App](https://github.com/SaraElnagar/movies_application)  
+### [📱 Flutter Movies App](https://github.com/NaderEmad9/movies_application)  
 - تطبيق يعرض أحدث الأفلام والمراجعات باستخدام TMDB API.  
 - مميزات:
   - تصميم جذاب باستخدام Material Design.  

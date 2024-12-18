@@ -17,14 +17,14 @@
 ---
 
 ## 📂 Featured Projects  
-### [📱 Flutter Movies App]([https://github.com/SaraElnagar/movies-app](https://github.com/NaderEmad9/movies_application))  
+### [📱 Flutter Movies App](https://github.com/SaraElnagar/movies_application)  
 - تطبيق يعرض أحدث الأفلام والمراجعات باستخدام TMDB API.  
 - مميزات:
   - تصميم جذاب باستخدام Material Design.  
   - عرض الأفلام حسب التصنيفات (Top Rated, Popular).  
   - إدارة الحالة باستخدام Provider.  
 
-### [📖 Islami App]([https://github.com/SaraElnagar/islami-app](https://github.com/SaraElnagar/islami_application))  
+### [📖 Islami App](https://github.com/SaraElnagar/islami_application)  
 - تطبيق شامل يحتوي على القرآن الكريم، الأذكار، ومواقيت الصلاة.  
 - مميزات:
   - دعم الوضع الليلي.- دعم الوضع الليلي.  
